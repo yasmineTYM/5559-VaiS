@@ -27,6 +27,13 @@ This is build for group work, may include all the information and materials used
 * Interpretable Neural Architectures for Attributing an Ad’s Performance to its Writing Style
 * Learning Explanations from Language Data
 * Open Sesame: Getting Inside BERT’s Linguistic Knowledge
+
+##### Knowledge Graph
+- Modeling Paths for Explainable Knowledge Base Completion
+
+##### Graph Neural Network
+- [GNNExplainer: Generating Explanations for Graph Neural Networks](https://cs.stanford.edu/people/jure/pubs/gnnexplainer-neurips19.pdf)
+
 ##### Others 
  - [Analyzing Learned Representations of a Deep ASR Performance Prediction Model](https://arxiv.org/pdf/1808.08573.pdf)
  - Evaluating Textual Representations through Image Generation
@@ -37,4 +44,3 @@ This is build for group work, may include all the information and materials used
  - Debugging Sequence-to-Sequence Models with SEQ2SEQ-VIS
  - Multi-Granular Text Encoding for Self-Explaining Categorization
  - Evaluating Recurrent Neural Network Explanations
- - Modeling Paths for Explainable Knowledge Base Completion
