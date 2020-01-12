@@ -33,6 +33,7 @@ This is build for group work, may include all the information and materials used
 
 ##### Graph Neural Network
 - [GNNExplainer: Generating Explanations for Graph Neural Networks](https://cs.stanford.edu/people/jure/pubs/gnnexplainer-neurips19.pdf)
+- [Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs](https://arxiv.org/pdf/1812.00279.pdf)
 
 ##### Others 
  - [Analyzing Learned Representations of a Deep ASR Performance Prediction Model](https://arxiv.org/pdf/1808.08573.pdf)
