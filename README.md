@@ -10,6 +10,7 @@ This is build for group work, may include all the information and materials used
 
 # Paper List
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Yamei
+- ![#f01515](https://placehold.it/15/f01515/000000?text=+) Jason
 ##### CNN for text analysis
 -  Understanding Convolutional Neural Networks for Text Classification
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [Convolutional Neural Networks for sentence classification](https://arxiv.org/pdf/1408.5882.pdf) 
@@ -48,7 +49,7 @@ sentiment analysis
 * Interpreting Neural Networks with Nearest Neighbors
 * Interpretable Neural Architectures for Attributing an Ad’s Performance to its Writing Style
 * Learning Explanations from Language Data
-* Open Sesame: Getting Inside BERT’s Linguistic Knowledge
+* ![#f01515](https://placehold.it/15/f01515/000000?text=+) Open Sesame: Getting Inside BERT’s Linguistic Knowledge
 
 ##### Knowledge Graph
 - Modeling Paths for Explainable Knowledge Base Completion
@@ -68,3 +69,8 @@ sentiment analysis
  - Debugging Sequence-to-Sequence Models with SEQ2SEQ-VIS
  - Multi-Granular Text Encoding for Self-Explaining Categorization
  - Evaluating Recurrent Neural Network Explanations
+ - ![#f01515](https://placehold.it/15/f01515/000000?text=+) Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics
+ - ![#f01515](https://placehold.it/15/f01515/000000?text=+) Understanding Neural Networks Through Deep Visualization.
+ - ![#f01515](https://placehold.it/15/f01515/000000?text=+) Visualizing and Measuring the Geometry of BERT. 
+
+
