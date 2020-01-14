@@ -11,6 +11,8 @@ This is build for group work, may include all the information and materials used
 # Paper List
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Yamei
 - ![#f01515](https://placehold.it/15/f01515/000000?text=+) Jason
+- ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Shuang
+
 ##### CNN for text analysis
 -  Understanding Convolutional Neural Networks for Text Classification
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [Convolutional Neural Networks for sentence classification](https://arxiv.org/pdf/1408.5882.pdf) 
@@ -41,7 +43,7 @@ sentiment analysis
 ##### Self-Attention 
 - [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809.pdf)
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[What does BERT look at? An Analysis of BERT’s Attention](https://arxiv.org/pdf/1906.04341.pdf)
-- [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/pdf/1906.04284.pdf)
+- ![#00ff00](https://placehold.it/15/00ff00/000000?text=+)[Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/pdf/1906.04284.pdf)
 - [Exploiting Attention to Reveal Shortcomings in Memory Models](https://www.aclweb.org/anthology/W18-5454.pdf)
 - [Extracting Syntactic Trees from Transformer Encoder Self-Attentions](https://www.aclweb.org/anthology/W18-5444.pdf)
 
@@ -55,8 +57,8 @@ sentiment analysis
 - Modeling Paths for Explainable Knowledge Base Completion
 
 ##### Graph Neural Network
-- [GNNExplainer: Generating Explanations for Graph Neural Networks](https://cs.stanford.edu/people/jure/pubs/gnnexplainer-neurips19.pdf)
-- [Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs](https://arxiv.org/pdf/1812.00279.pdf)
+- ![#00ff00](https://placehold.it/15/00ff00/000000?text=+)[GNNExplainer: Generating Explanations for Graph Neural Networks](https://cs.stanford.edu/people/jure/pubs/gnnexplainer-neurips19.pdf)
+- ![#00ff00](https://placehold.it/15/00ff00/000000?text=+)[Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs](https://arxiv.org/pdf/1812.00279.pdf)
 
 
 ##### Others 
