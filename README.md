@@ -12,6 +12,7 @@ This is build for group work, may include all the information and materials used
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Yamei
 - ![#f01515](https://placehold.it/15/f01515/000000?text=+) Jason
 - ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) Shuang
+- ![#000000](https://placehold.it/15/000000/000000?text=+) Mohammad
 
 ##### CNN for text analysis
 -  Understanding Convolutional Neural Networks for Text Classification
