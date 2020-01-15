@@ -80,8 +80,8 @@ sentiment analysis
  - ![#000000](https://placehold.it/15/000000/000000?text=+) [Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks](https://arxiv.org/pdf/1602.03616.pdf) 
 - ![#000000](https://placehold.it/15/000000/000000?text=+) [Inverting Visual Representations with Convolutional Networks](https://arxiv.org/pdf/1506.02753.pdf)
 - ![#000000](https://placehold.it/15/000000/000000?text=+) [Towards Better Analysis of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1604.07043.pdf)
- 
- 
+- ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) [ Interpretable Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf)
+ - ![#00ff00](https://placehold.it/15/00ff00/000000?text=+) [ Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
  
 
 
