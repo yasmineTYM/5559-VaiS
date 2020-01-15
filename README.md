@@ -45,7 +45,7 @@ sentiment analysis
 - [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809.pdf)
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[What does BERT look at? An Analysis of BERT’s Attention](https://arxiv.org/pdf/1906.04341.pdf)
 - ![#00ff00](https://placehold.it/15/00ff00/000000?text=+)[Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/pdf/1906.04284.pdf)
-- [Exploiting Attention to Reveal Shortcomings in Memory Models](https://www.aclweb.org/anthology/W18-5454.pdf)
+- ![#00ff00](https://placehold.it/15/00ff00/000000?text=+)[Exploiting Attention to Reveal Shortcomings in Memory Models](https://www.aclweb.org/anthology/W18-5454.pdf)
 - [Extracting Syntactic Trees from Transformer Encoder Self-Attentions](https://www.aclweb.org/anthology/W18-5444.pdf)
 
 ##### Interpreting model
