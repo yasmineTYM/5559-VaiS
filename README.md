@@ -23,8 +23,7 @@ This is build for group work, may include all the information and materials used
 - [Blog: Best Practices for Text Classification with Deep Learning
 by Jason Brownlee on October 23, 20](https://machinelearningmastery.com/best-practices-document-classification-deep-learning/)
 - [A CNN-BiLSTM Model for Document-Level Sentiment Analysis](https://www.mdpi.com/2504-4990/1/3/48/pdf)
-- Deep CNN-LSTM with combined kernels from multiple branches for IMDb review
-sentiment analysis
+- ![#f01515](https://placehold.it/15/f01515/000000?text=+) Deep CNN-LSTM with combined kernels from multiple branches for IMDb review sentiment analysis
 -  Sentiment analysis of movie reviews based on cnn-blstm.
 - Multi-Channel Lexicon Integrated CNN-BiLSTM Models for Sentiment Analysis.
 
@@ -37,8 +36,8 @@ sentiment analysis
 - Sentiment Classification Using Document Embeddings Trained with Cosine Similarity
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Fine-grained Sentiment Classification using BERT
 - Unsupervised Data Augmentation
-- 	A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification
-- BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs
+- A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification
+- ![#f01515](https://placehold.it/15/f01515/000000?text=+) BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs
 - Mazajak: An Online Arabic Sentiment Analyser
 
 ##### Self-Attention 
