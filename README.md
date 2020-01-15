@@ -17,7 +17,7 @@ This is build for group work, may include all the information and materials used
 ##### CNN for text analysis
 -  Understanding Convolutional Neural Networks for Text Classification
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [Convolutional Neural Networks for sentence classification](https://arxiv.org/pdf/1408.5882.pdf) 
-- [2017 Very Deep Convolutional Networks for Text Classification](https://www.aclweb.org/anthology/E17-1104.pdf)
+- ![#000000](https://placehold.it/15/000000/000000?text=+) [2017 Very Deep Convolutional Networks for Text Classification](https://www.aclweb.org/anthology/E17-1104.pdf)
 - [2016 Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts](https://www.aclweb.org/anthology/C16-1229.pdf)
 - 2017 CNN for situations understanding based on sentiment analysis of twitter data
 - [Blog: Best Practices for Text Classification with Deep Learning
@@ -31,7 +31,7 @@ sentiment analysis
 
 ##### Sentiment analysis
 - [Importance of Self-Attention for Sentiment Analysis](https://www.aclweb.org/anthology/W18-5429.pdf)
-- [Adversarial Attack on Sentiment Classification](https://www.aclweb.org/anthology/W19-4824.pdf)
+- ![#000000](https://placehold.it/15/000000/000000?text=+)[Adversarial Attack on Sentiment Classification](https://www.aclweb.org/anthology/W19-4824.pdf)
 - [Sentiment analysis is not solved! Assessing and probing sentiment classification](https://arxiv.org/pdf/1906.05887.pdf)
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
 - Sentiment Classification Using Document Embeddings Trained with Cosine Similarity
@@ -45,7 +45,7 @@ sentiment analysis
 - [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809.pdf)
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[What does BERT look at? An Analysis of BERT’s Attention](https://arxiv.org/pdf/1906.04341.pdf)
 - ![#00ff00](https://placehold.it/15/00ff00/000000?text=+)[Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/pdf/1906.04284.pdf)
-- ![#00ff00](https://placehold.it/15/00ff00/000000?text=+)[Exploiting Attention to Reveal Shortcomings in Memory Models](https://www.aclweb.org/anthology/W18-5454.pdf)
+- [Exploiting Attention to Reveal Shortcomings in Memory Models](https://www.aclweb.org/anthology/W18-5454.pdf)
 - [Extracting Syntactic Trees from Transformer Encoder Self-Attentions](https://www.aclweb.org/anthology/W18-5444.pdf)
 
 ##### Interpreting model
