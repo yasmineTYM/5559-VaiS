@@ -16,7 +16,8 @@ This is build for group work, may include all the information and materials used
 
 ##### CNN for text analysis
 -  Understanding Convolutional Neural Networks for Text Classification
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) [Convolutional Neural Networks for sentence classification](https://arxiv.org/pdf/1408.5882.pdf) 
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) <strong>A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval </strong>
+- [Convolutional Neural Networks for sentence classification](https://arxiv.org/pdf/1408.5882.pdf) 
 - ![#000000](https://placehold.it/15/000000/000000?text=+) [2017 Very Deep Convolutional Networks for Text Classification](https://www.aclweb.org/anthology/E17-1104.pdf)
 - [2016 Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts](https://www.aclweb.org/anthology/C16-1229.pdf)
 - 2017 CNN for situations understanding based on sentiment analysis of twitter data
