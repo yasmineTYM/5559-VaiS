@@ -75,7 +75,7 @@ by Jason Brownlee on October 23, 20](https://machinelearningmastery.com/best-pra
  - ![#f01515](https://placehold.it/15/f01515/000000?text=+) Understanding Neural Networks Through Deep Visualization.
  - ![#f01515](https://placehold.it/15/f01515/000000?text=+) Visualizing and Measuring the Geometry of BERT. 
  - ![#000000](https://placehold.it/15/000000/000000?text=+) [Interpreting CNNs via Decision Trees](https://arxiv.org/pdf/1802.00121.pdf)
- - ![#000000](https://placehold.it/15/000000/000000?text=+) [Visual Interpretability for Deep Learning: a Survey](https://arxiv.org/pdf/1802.00614.pdf)
+ - ![#000000](https://placehold.it/15/000000/000000?text=+) [**Visual Interpretability for Deep Learning: a Survey**](https://arxiv.org/pdf/1802.00614.pdf)
  - ![#000000](https://placehold.it/15/000000/000000?text=+) [Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks](https://arxiv.org/pdf/1602.03616.pdf) 
 - ![#000000](https://placehold.it/15/000000/000000?text=+) [Inverting Visual Representations with Convolutional Networks](https://arxiv.org/pdf/1506.02753.pdf)
 - ![#000000](https://placehold.it/15/000000/000000?text=+) [Towards Better Analysis of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1604.07043.pdf)
