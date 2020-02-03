@@ -27,6 +27,11 @@ by Jason Brownlee on October 23, 20](https://machinelearningmastery.com/best-pra
 - ![#f01515](https://placehold.it/15/f01515/000000?text=+) <strong>Deep CNN-LSTM with combined kernels from multiple branches for IMDb review sentiment analysis </strong>
 -  Sentiment analysis of movie reviews based on cnn-blstm.
 - Multi-Channel Lexicon Integrated CNN-BiLSTM Models for Sentiment Analysis.
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)<strong>[Analyzing and Interpreting Convolutional Neural Networks in NLP](https://arxiv.org/pdf/1810.09312.pdf)</strong>
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[Interpreting Neural Networks to Improve Politeness Comprehension](https://www.aclweb.org/anthology/D16-1216.pdf)
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ACTIVIS: Visual Exploration of Industry-Scale
+Deep Neural Network Models](https://arxiv.org/pdf/1704.01942.pdf)
+-![#1589F0](https://placehold.it/15/1589F0/000000?text=+)<strong>[Visualizing and Understanding Neural Models in NLP](https://arxiv.org/pdf/1506.01066.pdf)</strong>
 
 
 ##### Sentiment analysis
