@@ -35,6 +35,8 @@ Deep Neural Network Models](https://arxiv.org/pdf/1704.01942.pdf)
 - ![#000000](https://placehold.it/15/000000/000000?text=+) **Attention Visualization of Gated Convolutional Neural Networks with Self Attention in Sentiment Analysis**
 - ![#000000](https://placehold.it/15/000000/000000?text=+) **Learning Sentimental Weights of Mixed-gram Terms for Classification and Visualization**
 
+- ![#000000](https://placehold.it/15/000000/000000?text=+) **Explaining Predictions of Non-Linear Classifiers in NLP**
+
 ##### Sentiment analysis
 - [Importance of Self-Attention for Sentiment Analysis](https://www.aclweb.org/anthology/W18-5429.pdf)
 - ![#000000](https://placehold.it/15/000000/000000?text=+)[Adversarial Attack on Sentiment Classification](https://www.aclweb.org/anthology/W19-4824.pdf)
