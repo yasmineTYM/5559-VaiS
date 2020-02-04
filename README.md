@@ -32,8 +32,8 @@ by Jason Brownlee on October 23, 20](https://machinelearningmastery.com/best-pra
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)[ACTIVIS: Visual Exploration of Industry-Scale
 Deep Neural Network Models](https://arxiv.org/pdf/1704.01942.pdf)
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)<strong>[Visualizing and Understanding Neural Models in NLP](https://arxiv.org/pdf/1506.01066.pdf)</strong>
-- ![#000000](https://placehold.it/15/000000/000000?text=+) [**Attention Visualization of Gated Convolutional Neural Networks with Self Attention in Sentiment Analysis**]
-
+- ![#000000](https://placehold.it/15/000000/000000?text=+) **Attention Visualization of Gated Convolutional Neural Networks with Self Attention in Sentiment Analysis**
+- ![#000000](https://placehold.it/15/000000/000000?text=+) **Learning Sentimental Weights of Mixed-gram Terms for Classification and Visualization**
 
 ##### Sentiment analysis
 - [Importance of Self-Attention for Sentiment Analysis](https://www.aclweb.org/anthology/W18-5429.pdf)
