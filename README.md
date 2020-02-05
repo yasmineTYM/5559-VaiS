@@ -34,9 +34,12 @@ Deep Neural Network Models](https://arxiv.org/pdf/1704.01942.pdf)
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)<strong>[Visualizing and Understanding Neural Models in NLP](https://arxiv.org/pdf/1506.01066.pdf)</strong>
 - ![#000000](https://placehold.it/15/000000/000000?text=+) **Attention Visualization of Gated Convolutional Neural Networks with Self Attention in Sentiment Analysis**
 - ![#000000](https://placehold.it/15/000000/000000?text=+) **Learning Sentimental Weights of Mixed-gram Terms for Classification and Visualization**
-
 - ![#000000](https://placehold.it/15/000000/000000?text=+) **Explaining Predictions of Non-Linear Classifiers in NLP**
 - ![#000000](https://placehold.it/15/000000/000000?text=+) **Interpreting Self-Attention Weights**
+- Interpreting Neural Networks to Improve Politeness Comprehension 
+- Understanding Neural Networks through Representation Erasure
+- Explaining Recurrent Neural Network Predictions in Sentiment Analysis
+- "What is relevant in a text document?": An interpretable machine learning approach
 
 ##### Sentiment analysis
 - [Importance of Self-Attention for Sentiment Analysis](https://www.aclweb.org/anthology/W18-5429.pdf)
@@ -62,6 +65,16 @@ Deep Neural Network Models](https://arxiv.org/pdf/1704.01942.pdf)
 * Interpretable Neural Architectures for Attributing an Ad’s Performance to its Writing Style
 * Learning Explanations from Language Data
 * ![#f01515](https://placehold.it/15/f01515/000000?text=+) Open Sesame: Getting Inside BERT’s Linguistic Knowledge
+* Interpreting deep models for text analysis via optimization and regularization methods
+* Visualisation and ‘diagnostic classifiers’ reveal how recurrent and recursive neural networks process hierarchical structure
+* Representation of Linguistic Form and Function in Recurrent Neural Networks
+* Analyzing Linguistic Knowledge in Sequential Model of Sentence
+* Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs
+* Explaining Character-Aware Neural Networks for Word-Level Prediction: Do They Discover Linguistic Rules?
+* Interpreting Recurrent and Attention-Based Neural Models: A Case Study on Natural Language Inference
+* Are BLEU and Meaning Representation in Opposition?
+* Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context
+* Representation of Linguistic Form and Function in Recurrent Neural Networks
 
 ##### Knowledge Graph
 - Modeling Paths for Explainable Knowledge Base Completion
