@@ -36,6 +36,7 @@ Deep Neural Network Models](https://arxiv.org/pdf/1704.01942.pdf)
 - ![#000000](https://placehold.it/15/000000/000000?text=+) **Learning Sentimental Weights of Mixed-gram Terms for Classification and Visualization**
 
 - ![#000000](https://placehold.it/15/000000/000000?text=+) **Explaining Predictions of Non-Linear Classifiers in NLP**
+- ![#000000](https://placehold.it/15/000000/000000?text=+) **Interpreting Self-Attention Weights**
 
 ##### Sentiment analysis
 - [Importance of Self-Attention for Sentiment Analysis](https://www.aclweb.org/anthology/W18-5429.pdf)
