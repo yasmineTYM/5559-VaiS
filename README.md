@@ -38,8 +38,8 @@ Deep Neural Network Models](https://arxiv.org/pdf/1704.01942.pdf)
 - ![#000000](https://placehold.it/15/000000/000000?text=+) **Interpreting Self-Attention Weights**
 - Interpreting Neural Networks to Improve Politeness Comprehension 
 - Understanding Neural Networks through Representation Erasure
-- ![#f01515](https://placehold.it/15/000000/000000?text=+) Explaining Recurrent Neural Network Predictions in Sentiment Analysis
-- ![#f01515](https://placehold.it/15/000000/000000?text=+) "What is relevant in a text document?": An interpretable machine learning approach
+- ![#f01515](https://placehold.it/15/f01515/000000?text=+) Explaining Recurrent Neural Network Predictions in Sentiment Analysis
+- ![#f01515](https://placehold.it/15/f01515/000000?text=+) "What is relevant in a text document?": An interpretable machine learning approach
 
 ##### Sentiment analysis
 - [Importance of Self-Attention for Sentiment Analysis](https://www.aclweb.org/anthology/W18-5429.pdf)
@@ -65,13 +65,13 @@ Deep Neural Network Models](https://arxiv.org/pdf/1704.01942.pdf)
 * Interpretable Neural Architectures for Attributing an Ad’s Performance to its Writing Style
 * Learning Explanations from Language Data
 * ![#f01515](https://placehold.it/15/f01515/000000?text=+) Open Sesame: Getting Inside BERT’s Linguistic Knowledge
-* ![#f01515](https://placehold.it/15/000000/000000?text=+) Interpreting deep models for text analysis via optimization and regularization methods
-* ![#f01515](https://placehold.it/15/000000/000000?text=+) Visualisation and ‘diagnostic classifiers’ reveal how recurrent and recursive neural networks process hierarchical structure
+* ![#f01515](https://placehold.it/15/f01515/000000?text=+) Interpreting deep models for text analysis via optimization and regularization methods
+* ![#f01515](https://placehold.it/15/f01515/000000?text=+) Visualisation and ‘diagnostic classifiers’ reveal how recurrent and recursive neural networks process hierarchical structure
 * Representation of Linguistic Form and Function in Recurrent Neural Networks
 * Analyzing Linguistic Knowledge in Sequential Model of Sentence
 * Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs
-* ![#f01515](https://placehold.it/15/000000/000000?text=+) Explaining Character-Aware Neural Networks for Word-Level Prediction: Do They Discover Linguistic Rules?
-* ![#f01515](https://placehold.it/15/000000/000000?text=+) Interpreting Recurrent and Attention-Based Neural Models: A Case Study on Natural Language Inference
+* ![#f01515](https://placehold.it/15/f01515/000000?text=+) Explaining Character-Aware Neural Networks for Word-Level Prediction: Do They Discover Linguistic Rules?
+* ![#f01515](https://placehold.it/15/f01515/000000?text=+) Interpreting Recurrent and Attention-Based Neural Models: A Case Study on Natural Language Inference
 * Are BLEU and Meaning Representation in Opposition?
 * Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context
 
